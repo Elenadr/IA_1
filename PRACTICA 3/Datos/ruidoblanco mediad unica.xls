@@ -1,0 +1,5 @@
+Rec 1 to 2	Fast Response		dBA weighting		0,5 dB resolution stats													
+Date hh:mm:ss	LeqPeriod	Leq	SEL	Lmax	Lmin	L1%	L5%	L10%	L50%	L90%	L95%	L99%	Lmedian	Lmean	StdDev	L1%	L5%	L23%
+2019/02/28 14:07:19 	3,5 min	79,7	103,0	85,4		82,0	80,5	80,0	79,5	79,0	79,0	78,5	79,5	79,4	0,60	82,0	80,5	79,5
+2019/02/28 14:10:52 	3 sec	79,6	84,4	82,4		81,6	80,0	79,5	79,5	79,0	79,0	78,6	79,5	79,4	0,61	81,6	80,0	79,5
+

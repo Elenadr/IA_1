@@ -1,0 +1,13 @@
+Octave (Sxx)
+Frequency (Hz)	Level (dBA)
+6,30000E+1	4,24264E+1
+1,25000E+2	5,00644E+1
+2,50000E+2	5,82241E+1
+5,00000E+2	6,22955E+1
+1,00000E+3	6,20386E+1
+2,00000E+3	6,39021E+1
+4,00000E+3	7,45407E+1
+8,00000E+3	7,43685E+1
+
+Correction factor for total and delta total computation : 	N/A
+Total : 	77,802182
